@@ -1,5 +1,4 @@
-name: Deploy React A
-on:
+name: Deploy React
   push:
     branches:
       - master
